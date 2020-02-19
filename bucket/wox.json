@@ -1,10 +1,10 @@
 {
     "homepage": "http://www.wox.one/",
     "description": "A full-featured launcher, access programs and web contents as you type.",
-    "version": "1.3.580",
+    "version": "1.3.578",
     "license": "MIT",
-    "url": "https://github.com/Wox-launcher/Wox/archive/v1.3.580.zip",
-    "hash": "md5:3dac6fd1c39ba9893b6a480168571157905b7204",
+    "url": "https://github.com/Wox-launcher/Wox/releases/download/v1.3.578/Wox-1.3.578.exe#/dl.7z",
+    "hash": "5C4013D63BCC922F42626B690192CB609B715A806EDC8A3C42C2C1925E781680",
     "bin": "Wox.exe",
     "shortcuts": [
         [
